@@ -1,0 +1,84 @@
+/*  ---------------------------------------------------------------------------------------------
+  ____           _____  _____                                 |
+ //   \    /\    ||  \\ ||  \\       ||                       | Version: 1.0
+||        // \   ||__// ||__//  ___  ||___   ___  _ __  ___   | Developers: CFD Lab
+||       //===\  ||     ||     //  \ ||  \\ //__\ |/ \\// \\  |             High-Voltage Lab
+ \\___/ //     \ ||     ||     \\__  ||  || \\__  ||  ||  ||  | 
+                                                              | Developed in 
+                                                              |     University of Patras, Greece
+-------------------------------------------------------------------------------------------------
+
+File info
+=========
+    File name:          input.txt
+    Type:               text file
+    Short Description:  This file contains all the input variables of the code. The
+                        code does not need to be compiled again if the input file is
+                        altered.
+                        
+---------------------------------------------------------------------------------------------  */
+
+// Neutral species
+neutralSpecies H2 H;
+
+// Number of reactions and maximum number of subreactions
+react_num 24;
+subreact_num 3;
+
+// Geometry of reactor [m]
+R 0.0085; 
+L 0.04;
+
+// Initial values of temperatures [Te in eV, Tg in K]
+Te 2.06;
+Tg 941.7;
+
+// Inlet temperature
+Tgi 900.0;
+
+// Pressure [Torr]
+p 10.0;
+
+// Inlet pressure [Torr]
+pin 10.0;
+
+// Relaxation factors
+r1 1.0e-2;
+r2 1.0e-2;
+r3 1.0e-9;
+
+// Inlet flow rate [sccm]
+Qi 100.0;
+
+// Electric field (V/m)
+E 5280.872;
+
+// Properties of H2 (S.I.)
+Cp 14.9e+3;     // At T=950K
+h 10.0;
+RH2 4124.2;
+
+// Heat of reactions R12, R13 and R14 [eV]
+DH12 4.52;
+DH13 4.52;
+Dh14 2.26;
+
+
+// Atmospheric conditions [S.I.]
+Tatm 300.0;
+patm 101325.0;
+
+// Emissivity (radiation)
+epsilon 0.91;
+
+// Frequency (Hz)
+freq 2.45e+09;
+
+// Show results for K or Ethr
+printScreenK false;
+printScreenEthr false;
+
+// BOLSIG+ file names
+BOLSIG_input            bolsigInput.dat;
+BOLSIG_output           bolsigOutput.dat;
+BOLSIG_crossSections    crossSections.txt;
