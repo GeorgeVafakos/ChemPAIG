@@ -1,11 +1,12 @@
 /*  ---------------------------------------------------------------------------------------------
-  ____           _____  _____                                 |
- //   \    /\    ||  \\ ||  \\       ||                       | Version: 1.0
-||        // \   ||__// ||__//  ___  ||___   ___  _ __  ___   | Developers: CFD Lab
-||       //===\  ||     ||     //  \ ||  \\ //__\ |/ \\// \\  |             High-Voltage Lab
- \\___/ //     \ ||     ||     \\__  ||  || \\__  ||  ||  ||  | 
-                                                              | Developed in 
-                                                              |     University of Patras, Greece
+                                                             |
+  ____                          _____       ____    ____     | Version: 1.0
+ //   \ ||                      ||  \\ ||  //  \\  //  \\    | Developers: CFD Lab,
+||      ||___   ___  _ __  ___  ||__// || ||       \\___     |             High-Voltage Lab
+||      ||  \\ //__\ |/ \\// \\ ||     || ||  ====     \\    |   
+ \\___/ ||  || \\__  ||  ||  || ||     ||  \\__//  \\__//    | Developed in 
+                                                             |     University of Patras, Greece
+                                                             |     
 -------------------------------------------------------------------------------------------------
 
 File info
@@ -27,7 +28,7 @@ literature [4,5].
 Platform
 ========
 The computational code is writen in C programming language, and both the BOLSIG+ 
-and the present code can be executed in both Unix-based systems and Windows.
+and the present code can be executed in Unix-based systems and Windows.
 
 References
 ==========
