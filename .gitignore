@@ -1,6 +1,9 @@
+# Ignore the following files
 solve
 main.exe
 bolsigInput.dat
 bolsigOutput.dat
 bolsiglog.txt
+
+# Ignore the following directories
 /BOLSIG
