@@ -1,4 +1,4 @@
-# ChemPIGS ver1.0
+# ChemPIG ver1.0
 
 This is a computational code for calculating the species densities (volume averaged)
 and gas temperature of a partially ionized low pressure hydrogen plasma, using the
