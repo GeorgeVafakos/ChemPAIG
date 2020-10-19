@@ -22,7 +22,7 @@ mathematical 0-D model described by Chen et al. [1]. The electron temeprature an
 the ionization, excitation and elastic reactions rate constants were calculated
 using the computational software BOLSIG+ [2], using cross sectional data from the 
 LXcat project [3]. The rest of the reaction rate constants were obtained by the
-literature [4,5]. 
+literature [4,5]. Again
 
 Platform
 ========
