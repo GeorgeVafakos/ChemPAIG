@@ -75,3 +75,4 @@ clean:
 	rm -rf *.o *.mod $(EXECUTABLE)
 	rm -rf Make
 	@echo "\033[1mFiles removed!"
+

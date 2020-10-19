@@ -56,8 +56,6 @@ References :
 
 
 
-
-
 IONIZATION
 H2 -> H2+
 1.540000e+1
