@@ -13,8 +13,9 @@ The computational code is writen in C programming language, and both the BOLSIG+
 and the present code can be executed in Unix-based systems and Windows.
 
 ### Developers
-The ChemPIG code was developed by the Computational Fluid Dynamics (CFD) laboratory, 
-and the High-Voltage Laboratory
+The ChemPIG code was developed by the Computational Fluid Dynamics (CFD) Laboratory, 
+and the High-Voltage Laboratory of the University of Patras, in Greece, in order to accomodate and enchance 
+their research activities.
 
 ### References
 
