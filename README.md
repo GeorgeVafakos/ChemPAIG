@@ -1,4 +1,4 @@
-# ChemPAIG ver1.0
+# ChemPAIG
 
 This is a computational code for calculating the species densities (volume averaged)
 and gas temperature of a partially ionized low pressure hydrogen plasma, using the
