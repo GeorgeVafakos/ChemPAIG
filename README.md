@@ -1,4 +1,4 @@
-# ChemPIG ver1.0
+# ChemPAIG ver1.0
 
 This is a computational code for calculating the species densities (volume averaged)
 and gas temperature of a partially ionized low pressure hydrogen plasma, using the
@@ -13,7 +13,7 @@ The computational code is writen in C programming language, and both the BOLSIG+
 and the present code can be executed in Unix-based systems and Windows.
 
 ### Developers
-The ChemPIG code was developed by the Computational Fluid Dynamics (CFD) Laboratory, 
+The ChemPAIG code was developed by the Computational Fluid Dynamics (CFD) Laboratory, 
 and the High-Voltage Laboratory of the University of Patras, in Greece, in order to accomodate and enchance 
 their research activities.
 
